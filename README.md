@@ -3,7 +3,7 @@
 A simple and elegant website for a local bakery, built with PHP and a MySQL database. This project features a dynamic product catalog, individual product pages, and a working contact form.
 
 ## Preview
-![Uploading screencapture-localhost-Cake-Bakery-index-php-2025-10-25-21_55_18.png…]()
+![Uploading screencapture-Cake-Bakery.png…]()
 
 *(**Note:** To make this work, drag a screenshot of your project into the `images` folder and make sure the filename matches here, e.g., `screenshot.png`)*
 
